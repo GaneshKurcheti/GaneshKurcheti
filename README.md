@@ -8,9 +8,9 @@
 
 ### 🚀 About Me
 
-I build AI-native applications and highly scalable distributed systems. Right now, I'm the **Lead Software Engineer at Salesforce**, where I architect core UI API infrastructure serving tens of thousands of customers. Previously, I built critical multi-device arbitration systems at **Google** and scaled factory-line manufacturing software at **Tesla**.
+I build AI-native applications and highly scalable distributed systems. Right now, I'm a **Lead Software Engineer at Salesforce** within Sales Cloud, where I design and develop agentic AI solutions for sales representatives. Previously, I built critical multi-device arbitration systems at **Google** and scaled factory-line manufacturing software at **Tesla**.
 
-Outside of my day job, I'm building **[SudoLudo.ai](https://sudoludo.ai)**—an AI-native financial intelligence platform that tracks SEC filings, insider trading, and news at scale for retail investors. I'm also the creator of **[Shylnk](https://shylnk.com)**, a privacy-focused URL shortener.
+I'm also the creator of **[Shylnk](https://shylnk.com)**, a privacy-focused URL shortener.
 
 - 🔭 Creator of **[Shylnk](https://shylnk.com)**
 - 🏢 **Lead Software Engineer @ Salesforce**
@@ -19,7 +19,7 @@ Outside of my day job, I'm building **[SudoLudo.ai](https://sudoludo.ai)**—an 
 - 📍 San Francisco, CA
 
 > [!IMPORTANT]
-> **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building somthing useful over on <a href="https://gitlab.com/GaneshKurcheti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F55?style=flat&logo=gitlab&logoColor=white" alt="GitLab" style="vertical-align: middle;"/></a>
+> **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building something useful over on <a href="https://gitlab.com/GaneshKurcheti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F55?style=flat&logo=gitlab&logoColor=white" alt="GitLab" style="vertical-align: middle;"/></a>
 
 
 
