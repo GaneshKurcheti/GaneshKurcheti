@@ -12,13 +12,16 @@ I build AI-native applications and highly scalable distributed systems. Right no
 
 Outside of my day job, I'm building **[SudoLudo.ai](https://sudoludo.ai)**—an AI-native financial intelligence platform that tracks SEC filings, insider trading, and news at scale for retail investors. I'm also the creator of **[Shylnk](https://shylnk.com)**, a privacy-focused URL shortener.
 
-- 🔭 Currently building **[SudoLudo.ai](https://sudoludo.ai)** & **[Shylnk](https://shylnk.com)**
+- 🔭 Creator of **[Shylnk](https://shylnk.com)**
 - 🏢 **Lead Software Engineer @ Salesforce**
 - 🔙 Previously: **SWE @ Google**, **Senior SWE @ Tesla**
 - 🎓 Master's in Computer Science @ **University of Florida**
 - 📍 San Francisco, CA
 
-> *💡 **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building personal projects privately over on GitLab. <a href="https://gitlab.com/GaneshKurcheti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F55?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>*
+> [!IMPORTANT]
+> **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building somthing useful over on <a href="https://gitlab.com/GaneshKurcheti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F55?style=flat&logo=gitlab&logoColor=white" alt="GitLab" style="vertical-align: middle;"/></a>
+
+
 
 ### 🛠️ Tech Stack
 
