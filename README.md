@@ -18,7 +18,7 @@ Outside of my day job, I'm building **[SudoLudo.ai](https://sudoludo.ai)**—an 
 - 🎓 Master's in Computer Science @ **University of Florida**
 - 📍 San Francisco, CA
 
-> *💡 **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building my startup and personal projects privately over on GitLab.*
+> *💡 **Why is my contribution graph so quiet?** I've been in stealth mode! Over the last year, I've been heads-down building personal projects privately over on GitLab. <a href="https://gitlab.com/GaneshKurcheti" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitLab-330F55?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /></a>*
 
 ### 🛠️ Tech Stack
 
